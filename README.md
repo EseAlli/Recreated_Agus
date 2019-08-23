@@ -1,2 +1,2 @@
 # Agus Clone
-To test my front end ability, I created Agus Makmun stack problem's site using HTML, CSS, &amp; Bootstrap.
+To test my front end ability, I recreated Agus Makmun stack problem's site using HTML, CSS, &amp; Bootstrap.
