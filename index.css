@@ -4,8 +4,9 @@ a{
 }
 
 h1{
-    font-size: 25px;
+    font-size: 23px;
     color: #696969;
+
 }
 
 body{
@@ -36,4 +37,12 @@ p{
 
 .col-sm-8{
     background-color: white;
+}
+
+hr{
+        margin-top: 20px;
+        margin-bottom: 20px;
+        border: 0;
+        border-top: 1px solid #F7F1F1;
+        border-bottom: 1px solid #fff;
 }
