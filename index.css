@@ -1,0 +1,35 @@
+a{
+    color: rgb(63, 167, 87);
+    text-decoration: none;
+}
+
+h1{
+    font-size: 25px;
+    color: #696969;
+}
+
+body{
+    background: url(subtle_dots.png);
+    font-family: "Roboto Condensed", Arial, sans-serif;
+    line-height: 1.5em;
+    font-weight: 300;
+}
+
+.col-sm-3{
+    font-size: 11px;
+    margin-top: 100px;
+}
+
+p{
+    color:#696969;
+}
+
+#profile-info{
+    color: #8C8C8C;
+}
+
+#searchBar{
+    font-size:11px;
+    color:#555;
+}
+
